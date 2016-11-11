@@ -1,6 +1,6 @@
 {
   "name": "meal-calculator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A meal cost calculator",
   "main": "meal-calculator.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "food"
   ],
   "author": "Andrew Ilijic",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailijic/meal-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ailijic/meal-calculator/issues"
+  },
+  "homepage": "https://github.com/ailijic/meal-calculator#readme"
 }
